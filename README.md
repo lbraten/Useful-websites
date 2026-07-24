@@ -7,6 +7,7 @@
 - https://www.shapes.gallery/
 - https://lucide.dev/
 - https://shadergradient.co/
+- https://gradients.juangarcia.ch/
 
 ### Cybersecurity
 - https://intelbase.is/
