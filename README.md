@@ -13,3 +13,4 @@
 - https://intelbase.is/
 - https://temp-mail.org/
 - https://deletebin.org/
+- https://emailosint.org/
