@@ -14,3 +14,4 @@
 - https://temp-mail.org/
 - https://deletebin.org/
 - https://emailosint.org/
+- https://themarkup.org/blacklight
