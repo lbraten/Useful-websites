@@ -11,3 +11,4 @@
 ### Cybersecurity
 - https://intelbase.is/
 - https://temp-mail.org/
+- https://deletebin.org/
