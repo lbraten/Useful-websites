@@ -15,3 +15,4 @@
 - https://deletebin.org/
 - https://emailosint.org/
 - https://themarkup.org/blacklight
+- https://fotoforensics.com/
