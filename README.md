@@ -16,3 +16,6 @@
 - https://emailosint.org/
 - https://themarkup.org/blacklight
 - https://fotoforensics.com/
+
+### Entertainment & Venues
+- https://stagepeek.live/ (StagePeek — 2D/3D concert seat-view simulator across 201 venues)
